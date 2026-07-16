@@ -1,8 +1,14 @@
 [
     {
-        "title": "Coffee",
-        "amount": 4.5,
-        "category": "Food",
-        "date": null
+        "date": "2026-07-16",
+        "title": "Train Ticket",
+        "amount": 12.0,
+        "category": "Travel"
+    },
+    {
+        "date": "2026-07-16",
+        "title": "Burger",
+        "amount": 10.0,
+        "category": "Food"
     }
 ]
