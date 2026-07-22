@@ -1,0 +1,17 @@
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "multisorter"
+version = "0.1.0"
+description= "A ultithreaded CLI file organizer written in Python"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+
+[project.scripts]
+multisorter = "smart_organizer.cli:main"

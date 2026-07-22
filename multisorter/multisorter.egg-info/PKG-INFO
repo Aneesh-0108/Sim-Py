@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: multisorter
+Version: 0.1.0
+Summary: A ultithreaded CLI file organizer written in Python
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown

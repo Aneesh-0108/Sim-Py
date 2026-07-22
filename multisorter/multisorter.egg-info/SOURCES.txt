@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+multisorter.egg-info/PKG-INFO
+multisorter.egg-info/SOURCES.txt
+multisorter.egg-info/dependency_links.txt
+multisorter.egg-info/entry_points.txt
+multisorter.egg-info/top_level.txt
+smart_organizer/__init__.py
+smart_organizer/cli.py
+smart_organizer/config.py
+smart_organizer/organizer.py
+smart_organizer/scanner.py
+smart_organizer/worker.py
